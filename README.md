@@ -6,7 +6,9 @@ Depot is a game about sorting parcels quickly, parcels come in on conveyor belts
 **Aim**
 
 The aim of the game is to keep all the conveyor belts free of parcels, by dragging and dropping parcels. If a conveyor belt “runs out of space” for parcels, some parcels will start to become damaged. If all the parcels on a full conveyor belt are damaged the conveyor belt could jam, and you lose the game.
+
 **Sorting Parcels**
+
 To get a good score you must correctly sort the parcels, the sorting rules are as follows:
 * If a parcel looks damaged it must always be put in the damaged chute.
 * If a parcel isn’t damaged, but weighs more than 5kg it must be put in the too heavy chute.
